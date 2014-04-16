@@ -3,6 +3,29 @@
   "description": "A RESTful Disco service",
   "version": "0.0.1",
   "dependencies": {
-    "express": "*"
+    "express": "~4.0.0"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sky-jack/discome.git"
+  },
+  "keywords": [
+    "disco",
+    "paradise",
+    "garage"
+  ],
+  "author": "Jack Watkins",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sky-jack/discome/issues"
+  },
+  "homepage": "https://github.com/sky-jack/discome",
+  "engines": {
+    "node": "0.10.x"
   }
 }
